@@ -1,0 +1,17 @@
+School Management System
+-----------------------------
+
+
+School Panel
+--------------------
+School Details
+Add Student
+View Student
+Fee Student
+
+
+
+Admin Panel
+--------------------
+Registered School
+Registered Student
